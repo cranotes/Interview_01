@@ -46,4 +46,7 @@ Just say DXA
 The route is IV and SC
 We will go through Monitoring at AbbVie slide
 Effeciently and not effectively
+Height, weight. Dont say height or weight
+Endpoint does not lead to stopping or terminating drug use
+You nailed it bruh
 ```
