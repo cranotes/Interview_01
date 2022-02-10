@@ -25,7 +25,8 @@ Tell me a time when you held someone else accountable for doing the right thing?
 
 What will you do if a PI refuse to take a curative action you are suggesting?
 
-Tell me a time when you were in a situation of uncertainity and change but you were still able to set and deliver on the priorities of the project(Staying focused in time of complexity and change).
+Tell me a time when you were in a situation of uncertainity and change but you were still able 
+to set and deliver on the priorities of the project(Staying focused in time of complexity and change).
 
 ```
 
