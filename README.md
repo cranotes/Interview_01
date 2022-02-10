@@ -31,5 +31,19 @@ to set and deliver on the priorities of the project(Staying focused in time of c
 ```
 
 
-
-
+## ====================================================================================================================================
+```
+Did you practise wit your sister last night?
+Next dont say sorry,  Just repeat the senrence again,
+Immuno-geni-city
+Good.. Just slow down when you have to list some items.
+We will go through Key Eligibility Criteria again
+Greater or equal to 4
+Less or equal to 14 
+Immuno-modulator
+Clinical Symptoms then pause before you continue
+Just say DXA
+The route is IV and SC
+We will go through Monitoring at AbbVie slide
+Effeciently and not effectively
+```
