@@ -17,7 +17,7 @@ Who does the ICF with subject?
 Oncology
 
 
-Give me an example when you put the patient at the forefront of critical decision(Putting first)?
+Give me an example when you put the patient at the forefront of critical decision(Putting patients first)?
 
 What did you do or implement to make sure that CRC  and not the PI doing the ICF does not repeat again?
 
