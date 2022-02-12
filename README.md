@@ -51,12 +51,12 @@ Endpoint does not lead to stopping or terminating drug use
 You nailed it bruh
 ```
 =====================================================
-
+```
 What is source documnt worksheet?
 IMP? Investigational Medical Product
 So both the site and CRO/Sponor each have their own SOP?
 The SIV report is the only report a copy is sent to the trial site.
 What is RGL?
-
+```
 
 
