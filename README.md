@@ -56,7 +56,9 @@ What is source documnt worksheet?
 IMP? Investigational Medical Product
 So both the site and CRO/Sponor each have their own SOP?
 The SIV report is the only report a copy is sent to the trial site.
-What is RGL?
+What is RGL? 
+Half-life of drug
+Dose limiting toxocoty(DLT)
 ```
 
 
